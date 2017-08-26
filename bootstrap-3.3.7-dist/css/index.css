@@ -1,0 +1,70 @@
+#top{
+    height: 500px;
+}
+.container{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    margin-top: 20px;
+
+}
+.container li{
+    float: left;
+    margin-left: 40px;
+    list-style:none
+}
+
+.brand{
+    font-size: 16px;
+    line-height: 50px;
+
+}
+.container a:link {
+    color: gray;
+    text-decoration: none;
+
+}
+.container a:visited {
+    color: gray;
+    text-decoration: none;
+}
+.container a:hover {
+    color: white;
+    text-decoration: none;
+}
+.menu_a{
+    color:black;
+}
+.dropdown-menu{
+    float: left;
+}
+.dropdown-menu li{
+    margin-left: 5px;
+}
+.Search{
+    float: right;
+}
+.btn-group form{
+    margin-left: 250px;
+}
+.carousel-example-generic{
+    height: 500px;
+}
+#myCarousel{
+    margin:50px 0 0 0;
+}
+#carousel-example img{
+    width: 2000px;
+    height: 500px;
+}
+.marketing{
+    margin-top: 500px;
+}
+.span4{
+    margin-top: 30px;
+    float: left;
+    width: 370px;
+    text-align:center
+}
