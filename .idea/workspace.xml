@@ -2,11 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="36083b91-9621-4290-b7ab-d34a9bcac398" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/img/slide-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/img/slide-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/img/slide-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/img/file1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/img/file2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/img/file3.jpg" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/aa.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-alert.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-button.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-carousel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-dropdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-modal.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-popover.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-scrollspy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-tab.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-tooltip.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-transition.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap-typeahead.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/holder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/slide-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/slide-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/slide-03.jpg" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/browser-icon-chrome.png" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/img/browser-icon-chrome.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/browser-icon-firefox.png" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/img/browser-icon-firefox.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap_files/browser-icon-safari.png" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/img/browser-icon-safari.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/index.css" afterPath="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/index.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -25,8 +49,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="87" column="29" lean-forward="false" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="29" />
+            <state relative-caret-position="192">
+              <caret line="132" column="167" lean-forward="false" selection-start-line="132" selection-start-column="167" selection-end-line="132" selection-end-column="167" />
               <folding>
                 <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -35,18 +59,10 @@
                 <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Carousel Template · Bootstrap.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="116" selection-end-column="5" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -55,8 +71,8 @@
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+            <state relative-caret-position="516">
+              <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -79,9 +95,12 @@
       <find>class=&quot;menu_a&quot;</find>
       <find>myCarousel</find>
       <find>container</find>
+      <find>Carousel Template · Bootstrap_files</find>
+      <find>featurette-divider</find>
     </findStrings>
     <replaceStrings>
       <replace>style=&quot;color:black;&quot;`</replace>
+      <replace>img</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -91,9 +110,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/aa.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap.html" />
         <option value="$PROJECT_DIR$/bootstrap-3.3.7-dist/css/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -185,6 +204,7 @@
       <recent name="$PROJECT_DIR$/bootstrap-3.3.7-dist/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bootstrap-3.3.7-dist/img" />
       <recent name="$PROJECT_DIR$/bootstrap-3.3.7-dist/aa" />
     </key>
   </component>
@@ -279,17 +299,18 @@
       <option name="presentableId" value="Default" />
       <updated>1503637242019</updated>
       <workItem from="1503637243375" duration="9904000" />
-      <workItem from="1503711725080" duration="3450000" />
+      <workItem from="1503711725080" duration="4611000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13354000" />
+    <option name="totallyTimeSpent" value="14515000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-11" width="1922" height="1092" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -330,6 +351,10 @@
             <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -346,9 +371,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10314">
           <caret line="382" column="0" lean-forward="true" selection-start-line="382" selection-start-column="0" selection-end-line="382" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -385,9 +408,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -395,9 +416,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -405,9 +424,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -415,9 +432,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2430">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -433,26 +448,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/aa/Carousel Template · Bootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="116" selection-end-column="5" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="351">
+          <caret line="80" column="5" lean-forward="true" selection-start-line="60" selection-start-column="3" selection-end-line="80" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap-3.3.7-dist/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="65" column="21" lean-forward="false" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="21" />
+        <state relative-caret-position="516">
+          <caret line="94" column="1" lean-forward="false" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="87" column="29" lean-forward="false" selection-start-line="87" selection-start-column="24" selection-end-line="87" selection-end-column="29" />
+        <state relative-caret-position="192">
+          <caret line="132" column="167" lean-forward="false" selection-start-line="132" selection-start-column="167" selection-end-line="132" selection-end-column="167" />
           <folding>
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -461,6 +474,10 @@
             <element signature="n#style#0;n#a#0;n#li#5;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#6;n#ul#0;n#div#0;n#nav#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#3;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
