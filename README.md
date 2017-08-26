@@ -1,3 +1,7 @@
+结果如下：
+
+ <img  src="./bootstrap-3.3.7-dist/img/mahuan.png">
+
 # 练习：使用Bootstrap制作简单页面
 
 ## 练习目标
